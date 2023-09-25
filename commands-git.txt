@@ -1,9 +1,13 @@
 Commande pour clone : "git clone + URL du repository" (La commande git clone est utilisée pour créer une copie complète d'un référentiel Git distant sur votre propre système local.)
 
-Commande pour ajouter des modifications : "git add ." (La commande git add est utilisée pour ajouter des modifications de fichiers spécifiques à la zone de transit dans Git.)
+Commande pour ajouter des modifications : "git add . (nom du fichier)" (La commande git add est utilisée pour ajouter des modifications de fichiers spécifiques à la zone de transit dans Git.)
 
 Commande pour commit : "git commit -m "ajout de nouvelles fonctionnalités" (La commande git commit est utilisée pour créer un nouveau commit (point de sauvegarde) dans un référentiel Git local.)
 
 Commande pour push : "git push" (La commande git push est utilisée pour envoyer les modifications locales d'une branche Git vers un référentiel Git distant.)
 
-Commande pour pull : "git pull origin nom-de-votre-branche" (La commande git pull origin nom-de-votre-branche sert à mettre à jour votre branche locale en récupérant les dernières modifications de la même branche depuis le référentiel distant dans Git.)
+Commande pour pull : "git pull origin nom-de-votre-branche" (La commande git pull origin nom-de-votre-branche sert à mettre à jour votre branche locale en récupérant les dernières modifications de la même branche depuis le référentiel distant dans Git.
+
+Commande pour créer une branche : "git branch add-create-branch-command" (La commande git branch add-create-branch-command sert à créer une nouvelle branche dans un référentiel Git local.) 
+
+Commande pour switcher de branche : "git checkout add-create-branch-command" (La commande git checkout add-create-branch-command sert à basculer sur une branche spécifique dans un référentiel Git local.)
