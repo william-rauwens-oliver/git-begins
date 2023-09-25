@@ -5,3 +5,5 @@ Commande pour ajouter des modifications : "git add ." (La commande git add est u
 Commande pour commit : "git commit -m "ajout de nouvelles fonctionnalités" (La commande git commit est utilisée pour créer un nouveau commit (point de sauvegarde) dans un référentiel Git local.)
 
 Commande pour push : "git push" (La commande git push est utilisée pour envoyer les modifications locales d'une branche Git vers un référentiel Git distant.)
+
+Commande pour pull : "git pull origin nom-de-votre-branche" (La commande git pull origin nom-de-votre-branche sert à mettre à jour votre branche locale en récupérant les dernières modifications de la même branche depuis le référentiel distant dans Git.)
